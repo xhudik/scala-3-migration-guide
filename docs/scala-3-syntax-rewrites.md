@@ -36,8 +36,8 @@ and they are all valid.
 Let's start with showing the compiler options we have available to achieve our goal. 
 
 ```bash
-$ dotc
-Usage: dotc <options> <source files>
+$ scalac
+Usage: scalac <options> <source files>
 where possible standard options include:
 
 <elided>
